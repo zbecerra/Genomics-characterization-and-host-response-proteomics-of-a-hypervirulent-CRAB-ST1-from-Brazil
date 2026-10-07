@@ -1,4 +1,4 @@
-# Genomics and host-response proteomics of a hypervirulent carbapenem-resistant *Acinetobacter baumannii* ST1 isolate from Brazil (strain BR5)
+# Genomics and host-response proteomics of a hypervirulent carbapenem-resistant *Acinetobacter baumannii* ST1 isolate BR5 from Brazil
 
 Reproducible pipeline, scripts and reference databases accompanying the manuscript:
 
