@@ -1,0 +1,8 @@
+name: download
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - ca-certificates=2025.8.3
+  - ncbi-datasets-cli=18.7.0
